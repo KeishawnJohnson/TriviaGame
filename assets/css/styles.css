@@ -1,0 +1,30 @@
+/* background color green
+h1 color orange
+different lee icon for each question */
+#background {
+    background-image: url(../images/newbackground.png);
+    background-repeat:no-repeat;
+    background-size: 100%;
+    
+}
+#container {
+    text-align: center;
+    width: 850px;
+    height: 800px;
+    margin-left: 20px;
+    padding-top: 15px;
+}
+
+#directions {
+    /* background-color: rgb(17, 146, 97); */
+}
+
+#time-left{
+    border-radius: 25px;
+    background-color: #91414a;
+}
+
+#question {
+    border-radius: 25px;
+    background-color: #d99156;
+}

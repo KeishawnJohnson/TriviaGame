@@ -1,0 +1,48 @@
+trivai questions:
+How many total missions has Rock Lee successfully completed?
+Lee has completed 61 official missions in total
+~
+100
+72
+23
+
+What famous person is Rock Lee modeled after?
+Bruce Lee
+~
+Jackie Chan
+Ip man
+Mr. Miyagi
+
+What is the name of Rock Lees' child?
+Metal Lee
+~
+Stone Lee
+Boulder Lee
+Wood Lee
+
+What is the name of Rock Lees spin off series?
+Rock Lee's Springtime of Youth Full Power Ninja Chronicles
+~
+Rock Lee's Amazing Gutsy Adventures
+Rock Lee's Journey of Many endeavors
+Rock Lee's Super Awesome Friends Full of Fierce Fire
+
+What is written on Rock Lees ankle weights?
+Guts
+~
+All for One
+Guts
+Believe it
+
+Psuedo Code
+
+wrap java in document.ready
+
+por la ahora 
+setTimeout count of 90,000
+use the math converter from the stop watch activity
+reset - when clicked call the clear timeout function then recall original timer function
+when the timer hits 0 call on the scoreGame function & clear timeout
+
+buttons
+may be radio type of button
